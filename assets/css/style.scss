@@ -1,1 +1,54 @@
 
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  color: #222;
+}
+
+.wrapper {
+  max-width: 1000px;
+}
+
+header {
+  width: 270px;
+}
+
+section {
+  width: 650px;
+}
+
+h1, h2, h3 {
+  color: #1f3a5f;
+  font-weight: 600;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img.profile {
+  border-radius: 8px;
+  width: 220px;
+  margin-bottom: 15px;
+}
+
+.publication {
+  margin-bottom: 18px;
+}
+
+.research-card {
+  border-left: 4px solid #1f3a5f;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
