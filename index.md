@@ -5,7 +5,7 @@ title: Home
 
 # Md. Arman Hossen
 
-Postdoctoral Researcher at Penn State University working on X-ray and gamma-ray detector development for NASA missions.
+Postdoctoral Researcher at Penn State University working on X-ray and gamma-ray detector development for the NASA cubesat mission, BlackCAT.
 
 - Research: Hybrid CMOS detectors, TES microcalorimeters, cryogenic instrumentation
 - Current Mission: BlackCAT CubeSat
