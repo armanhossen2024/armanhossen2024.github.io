@@ -1,9 +1,20 @@
 title: Md. Arman Hossen
 logo: /profile.jpg
+
 description: >
-  Postdoctoral Researcher in Astronomy and Astrophysics at Pennsylvania State University. 
-  X-ray and gamma-ray detector development, Hybrid CMOS detectors, TES microcalorimeters, 
+  Postdoctoral Researcher in Astronomy and Astrophysics at Pennsylvania State University.
+  X-ray and gamma-ray detector development, Hybrid CMOS detectors, TES microcalorimeters,
   and high-energy astrophysics instrumentation.
+  <br><br>
+  <strong>Links</strong><br>
+  <a href="/research">Research</a><br>
+  <a href="/publications">Publications</a><br>
+  <a href="/cv">Curriculum Vitae</a><br>
+  <a href="/Arman_Hossen_CV.pdf">Download CV (PDF)</a><br>
+  <a href="/career_statement">Career Statement</a><br>
+  <a href="https://scholar.google.com/citations?user=vhZarooAAAAJ" target="_blank">Google Scholar</a><br>
+  <a href="https://orcid.org/0000-0002-2218-5806" target="_blank">ORCID</a><br>
+  <a href="https://www.linkedin.com/in/md-arman-hossen-514b89229" target="_blank">LinkedIn</a>
 
 theme: jekyll-theme-minimal
 
